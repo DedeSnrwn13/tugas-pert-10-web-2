@@ -55,6 +55,8 @@
                     </header>
 
                     <main class="mt-6">
+                        <h1 class="text-center text-2xl">Hello World - Dede Sunarwan</h1>
+                        <br>
                         <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
                             <a
                                 href="https://laravel.com/docs"
